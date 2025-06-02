@@ -73,7 +73,7 @@ Make sure to include when the incident started and the root cause. Remember, the
 ---
 
 
-### Conclusions
+### CONCLUSIONS
 
 The Spring4Shell era taught the cybersecurity community that our most fundamental assumptions about application security needed updating. We learned that widely-trusted software components could become weapons, that zero-day vulnerabilities could have immediate global impact, and that traditional security controls had significant blind spots.
 More importantly, we learned that effective zero-day response requires a combination of technical capabilities, organizational preparedness, and human expertise that many organizations are still developing.
