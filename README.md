@@ -21,6 +21,7 @@ Spring4Shell highlights the risk of vulnerabilities in widely adopted frameworks
 
 ---
 
+
 ## Task 1 - Responding to a Malware Attack
 
 ### Summary:
@@ -68,6 +69,9 @@ The purpose of the postmortem is to provide a ‘paper trail’ of what happened
 For this task, create an incident postmortem of the malware attack, covering the details you have picked up in the previous tasks.
 
 Make sure to include when the incident started and the root cause. Remember, the more detail the better.
+
+---
+
 
 ### Conclusions
 
