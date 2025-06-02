@@ -3,6 +3,8 @@ Telstra Cybersecurity Simulation featuring Spring4Shell Zero-Day Vulnerability a
 
 Link to the simulation: https://www.theforage.com/virtual-internships/RNhbu8QnDzthwynEf
 
+---
+
 ### INTRO
 
 In March 2022, a critical zero-day vulnerability was disclosed in the popular Spring Framework—an open-source platform widely used by Java developers to build modern web applications. This vulnerability, now known as Spring4Shell, was assigned the identifier CVE-2022-22965.
@@ -33,6 +35,8 @@ First, find out which key infrastructure is currently under attack. Note the pri
 After, draft an email to the respective team alerting them of the current attack so that they can begin an incident response. Make sure to include the timestamp of when the incident occurred. Make it concise and contextual.
 The purpose of this email is to ensure the respective team is aware of the ongoing incident and to be prepared for mitigation advice.
 
+File: Task-1_Telstra-SOC-email-draft.docx
+
 
 ## Task 2 - Analysing the Attack
 
@@ -48,6 +52,9 @@ An important responsibility of an information security analyst is the ability to
 
 3.  Draft an email to the networks team with your findings. Make sure to be concise, so that they can develop the firewall rule to mitigate the attack. You can assume the recipient is technical and has dealt with these types of requests before.
 
+File: Task-2_Firewall-Reqwuest-email.docx
+
+
 ## Task 3 - Mitigate the Malware Attack 
 
 ### Summary:
@@ -57,6 +64,9 @@ In this task, we will simulate the firewall’s scripting language by using an H
 
 ### The Task: 
 Use Python to develop a firewall rule to mitigate the attack. Develop this rule in `firewall_server.py` and only upload this file back here.
+
+File: Task-3_Firewall_server.py
+
 
 ## Task 4 - Incident Postmortem
 
@@ -69,6 +79,8 @@ The purpose of the postmortem is to provide a ‘paper trail’ of what happened
 For this task, create an incident postmortem of the malware attack, covering the details you have picked up in the previous tasks.
 
 Make sure to include when the incident started and the root cause. Remember, the more detail the better.
+
+File: Task-4_Malware-Attack_Postmortem.docx
 
 ---
 
