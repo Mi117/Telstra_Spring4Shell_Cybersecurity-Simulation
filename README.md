@@ -7,7 +7,7 @@ Link to the simulation: https://www.theforage.com/virtual-internships/RNhbu8QnDz
 
 ### INTRO
 
-In March 2022, a critical zero-day vulnerability was disclosed in the popular Spring Framework—an open-source platform widely used by Java developers to build modern web applications. This vulnerability, now known as Spring4Shell, was assigned the identifier CVE-2022-22965.
+In March 2022, a critical zero-day vulnerability was disclosed in the popular Spring Framework—an open-source platform widely used by Java developers to build modern web applications. This vulnerability, now known as Spring4Shell, was assigned the identifier CVE-2022-22965 [https://nvd.nist.gov/vuln/detail/cve-2022-22965].
 
 Spring4Shell allows an attacker to remotely execute arbitrary code on servers running vulnerable versions of Spring, potentially giving them full control over affected systems. This type of attack is known as Remote Code Execution (RCE)—one of the most severe and dangerous types of vulnerabilities in cybersecurity.
 
@@ -21,7 +21,7 @@ What made Spring4Shell particularly alarming was:
 
 Spring4Shell highlights the risk of vulnerabilities in widely adopted frameworks. When core development tools are affected, thousands of applications become potential attack vectors overnight.
 
-In this particular instance we are a member of the Cybersecurity Team @ Telstra and an alert has come into the Security Operation Centre (SOC). Let's dive into it.
+In this particular simulation, we are a member of the Cybersecurity Team @ Telstra and an alert has come into the Security Operation Centre (SOC). Let's dive into it and deal with the malware.
 
 ---
 
@@ -36,7 +36,7 @@ First, find out which key infrastructure is currently under attack. Note the pri
 After, draft an email to the respective team alerting them of the current attack so that they can begin an incident response. Make sure to include the timestamp of when the incident occurred. Make it concise and contextual.
 The purpose of this email is to ensure the respective team is aware of the ongoing incident and to be prepared for mitigation advice.
 
-### File: Task-1_Telstra-SOC-email-draft.docx
+### _File: Task-1_Telstra-SOC-email-draft.docx_
 
 ---
 
@@ -54,7 +54,7 @@ An important responsibility of an information security analyst is the ability to
 
 3.  Draft an email to the networks team with your findings. Make sure to be concise, so that they can develop the firewall rule to mitigate the attack. You can assume the recipient is technical and has dealt with these types of requests before.
 
-### File: Task-2_Firewall-Reqwuest-email.docx
+### _File: Task-2_Firewall-Reqwuest-email.docx_
 
 ---
 
@@ -68,7 +68,7 @@ In this task, we will simulate the firewall’s scripting language by using an H
 ### The Task: 
 Use Python to develop a firewall rule to mitigate the attack. Develop this rule in `firewall_server.py` and only upload this file back here.
 
-### File: Task-3_Firewall_server.py
+### _File: Task-3_Firewall_server.py_
 
 ---
 
@@ -84,7 +84,7 @@ For this task, create an incident postmortem of the malware attack, covering the
 
 Make sure to include when the incident started and the root cause. Remember, the more detail the better.
 
-### File: Task-4_Malware-Attack_Postmortem.docx
+### _File: Task-4_Malware-Attack_Postmortem.docx_
 
 ---
 
