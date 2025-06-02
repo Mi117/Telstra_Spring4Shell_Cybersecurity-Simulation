@@ -34,7 +34,7 @@ First, find out which key infrastructure is currently under attack. Note the pri
 After, draft an email to the respective team alerting them of the current attack so that they can begin an incident response. Make sure to include the timestamp of when the incident occurred. Make it concise and contextual.
 The purpose of this email is to ensure the respective team is aware of the ongoing incident and to be prepared for mitigation advice.
 
-### File: Task-1_Telstra-SOC-email-draft.docx
+### File: Task-1_Telstra-SOC-email-draft.docx (https://github.com/Mi117/Telstra_Spring4Shell_Cybersecurity-Simulation/blob/main/Task-1_Telstra-SOC-email-draft.docx)
 
 ---
 
