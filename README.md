@@ -23,8 +23,7 @@ Spring4Shell highlights the risk of vulnerabilities in widely adopted frameworks
 
 ---
 
-
-## Task 1 - Responding to a Malware Attack
+### Task 1 - Responding to a Malware Attack
 
 ### Summary:
 You are an information security analyst in the Security Operations Centre. A common task and responsibility of information security analysts in the SOC is to respond to triage incoming threats and respond appropriately, by notifying the correct team depending on the severity of the threat. It’s important to be able to communicate the severity of the incident to the right person so that the organisation can come together in times of attack.
@@ -35,10 +34,11 @@ First, find out which key infrastructure is currently under attack. Note the pri
 After, draft an email to the respective team alerting them of the current attack so that they can begin an incident response. Make sure to include the timestamp of when the incident occurred. Make it concise and contextual.
 The purpose of this email is to ensure the respective team is aware of the ongoing incident and to be prepared for mitigation advice.
 
-File: Task-1_Telstra-SOC-email-draft.docx
+### File: Task-1_Telstra-SOC-email-draft.docx
 
+---
 
-## Task 2 - Analysing the Attack
+### Task 2 - Analysing the Attack
 
 ### Summary:
 Now that you have notified the infrastructure owner of the current attack, analyse the firewall logs to find the pattern in the attacker’s network requests. You won’t be able to simply block IP addresses, because of the distributed nature of the attack, but maybe there is another characteristic of the request that is easy to block.
@@ -52,10 +52,11 @@ An important responsibility of an information security analyst is the ability to
 
 3.  Draft an email to the networks team with your findings. Make sure to be concise, so that they can develop the firewall rule to mitigate the attack. You can assume the recipient is technical and has dealt with these types of requests before.
 
-File: Task-2_Firewall-Reqwuest-email.docx
+### File: Task-2_Firewall-Reqwuest-email.docx
 
+---
 
-## Task 3 - Mitigate the Malware Attack 
+### Task 3 - Mitigate the Malware Attack 
 
 ### Summary:
 Work with the networks team to implement a firewall rule using the Python scripting language. Python is a common scripting language used across both offensive and defensive information security tasks.
@@ -65,10 +66,11 @@ In this task, we will simulate the firewall’s scripting language by using an H
 ### The Task: 
 Use Python to develop a firewall rule to mitigate the attack. Develop this rule in `firewall_server.py` and only upload this file back here.
 
-File: Task-3_Firewall_server.py
+### File: Task-3_Firewall_server.py
 
+---
 
-## Task 4 - Incident Postmortem
+### Task 4 - Incident Postmortem
 
 ### Summary: 
 After an incident has occurred, it’s best practice to document and record what has happened. A common report written after an incident is a postmortem, which covers a timeline of what has occurred, who was involved in responding to the incident, a root cause analysis and any actions which have taken place.
@@ -80,7 +82,7 @@ For this task, create an incident postmortem of the malware attack, covering the
 
 Make sure to include when the incident started and the root cause. Remember, the more detail the better.
 
-File: Task-4_Malware-Attack_Postmortem.docx
+### File: Task-4_Malware-Attack_Postmortem.docx
 
 ---
 
