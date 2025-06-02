@@ -21,6 +21,8 @@ What made Spring4Shell particularly alarming was:
 
 Spring4Shell highlights the risk of vulnerabilities in widely adopted frameworks. When core development tools are affected, thousands of applications become potential attack vectors overnight.
 
+In this particular instance we are a member of the Cybersecurity Team @ Telstra and an alert has come into the Security Operation Centre (SOC). Let's dive into it.
+
 ---
 
 ### Task 1 - Responding to a Malware Attack
