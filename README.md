@@ -19,8 +19,7 @@ What made Spring4Shell particularly alarming was:
 
 Spring4Shell highlights the risk of vulnerabilities in widely adopted frameworks. When core development tools are affected, thousands of applications become potential attack vectors overnight.
 
-<br>
-<br/>
+---
 
 ## Task 1 - Responding to a Malware Attack
 
