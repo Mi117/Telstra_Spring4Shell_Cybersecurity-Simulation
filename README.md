@@ -11,23 +11,15 @@ Spring4Shell allows an attacker to remotely execute arbitrary code on servers ru
 
 What made Spring4Shell particularly alarming was:
 
-It could be exploited without authentication, meaning attackers didn't need to log in or bypass credentials.
+- It could be exploited without authentication, meaning attackers didn't need to log in or bypass credentials.
 
-It affected a core component of the Spring framework, used by countless enterprise applications.
+- It affected a core component of the Spring framework, used by countless enterprise applications.
 
-It resembled Log4Shell, another major zero-day that had made headlines only a few months earlier.
+- It resembled Log4Shell, another major zero-day that had made headlines only a few months earlier.
 
-⚠️ Why it matters
 Spring4Shell highlights the risk of vulnerabilities in widely adopted frameworks. When core development tools are affected, thousands of applications become potential attack vectors overnight.
 
-Organizations were urged to:
-
-Immediately patch affected systems
-
-Review applications using vulnerable Spring versions
-
-Apply web application firewall (WAF) rules and enhance monitoring for exploitation attempts
-
+<br>
 <br/>
 
 ## Task 1 - Responding to a Malware Attack
